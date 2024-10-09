@@ -5,164 +5,69 @@
 
 w3i:
     a skos:ConceptScheme;
-    dct:title "#about"@de ;
-    skos:hasTopConcept w3i:2677c, w3i:83f3e, w3i:b44d8, w3i:d5182 .
-w3i:11d9d
-    a skos:Concept ;
-    skos:broader w3i:83f3e ;
-    skos:inScheme w3i: ;
-    skos:prefLabel "Beraten und Betreuen"@de .
-w3i:15298
-    a skos:Concept ;
-    skos:altlabel "Rechtssicherheit"@de ;
-    skos:broader w3i:b44d8 ;
-    skos:inScheme w3i: ;
-    skos:prefLabel "Datenschutz"@de .
+    dct:title "Problemfelder"@de ;
+    skos:hasTopConcept w3i:2677c, w3i:83f3e, w3i:b44d8, w3i:d5182, w3i:6588c, w3i:721d4, w3i:839e9 .
 w3i:2677c
     a skos:Concept ;
-    skos:narrower w3i:6588c, w3i:721d4, w3i:839e9, w3i:88c16, w3i:a413d, w3i:d1bdc ;
-    skos:prefLabel "Technisch-räumliche Infrastruktur"@de ;
+    skos:prefLabel "Didaktische Handlungsfelder der Lehre"@de ;
+    skos:example 
+        "Lehre planen und durchführen"@de,
+        "Prüfen"@de, 
+        "Beraten und Betreuen"@de,
+        "Lehre entwickeln"@de,
+        "Lehre evaluieren"@de ;
     skos:topConceptOf w3i: .
-w3i:2977f
-    a skos:Concept ;
-    skos:broader w3i:d5182 ;
-    skos:inScheme w3i: ;
-    skos:prefLabel "Coaching"@de .
-w3i:29a63
-    a skos:Concept ;
-    skos:broader w3i:83f3e ;
-    skos:inScheme w3i: ;
-    skos:prefLabel "Lehre planen & durchführen"@de .
-w3i:32100
-    a skos:Concept ;
-    skos:altlabel "Anreizsysteme"@de ;
-    skos:broader w3i:b44d8 ;
-    skos:inScheme w3i: ;
-    skos:prefLabel "Anreize"@de .
-w3i:4563e
-    a skos:Concept ;
-    skos:altlabel "Austausch"@de ;
-    skos:broader w3i:d5182 ;
-    skos:inScheme w3i: ;
-    skos:prefLabel "Vernetzung"@de .
-w3i:48ecf
-    a skos:Concept;
-    skos:broader w3i:d5182;
-    skos:inScheme w3i:;
-    skos:prefLabel "Weiterbildung"@de.
-w3i:4bd03
-    a skos:Concept;
-    skos:broader w3i:83f3e;
-    skos:inScheme w3i:;
-    skos:prefLabel "Lehre innovieren"@de.
-w3i:53abd
-    a skos:Concept;
-    skos:broader w3i:d5182;
-    skos:inScheme w3i:;
-    skos:prefLabel "Beratung"@de.
-w3i:5aae2
-    a skos:Concept;
-    skos:altlabel "Strategische Verankerung"@de;
-    skos:broader w3i:b44d8;
-    skos:inScheme w3i:;
-    skos:prefLabel "Leitbild- und Strategieentwicklung"@de.
-w3i:6588c
-    a skos:Concept;
-    skos:altlabel "Medientechnik"@de;
-    skos:broader w3i:2677c;
-    skos:inScheme w3i:;
-    skos:prefLabel "Lehr-Lernraum-Ausstattung"@de.
-w3i:67e63
-    a skos:Concept;
-    skos:broader w3i:d5182;
-    skos:inScheme w3i:;
-    skos:prefLabel "Informationsmaterialien"@de.
-w3i:6ef67
-    a skos:Concept;
-    skos:altlabel "Ausbaundelung von Support-Strukturen"@de;
-    skos:broader w3i:b44d8;
-    skos:inScheme w3i:;
-    skos:prefLabel "Supportzentren"@de.
-w3i:721d4
-    a skos:Concept;
-    skos:altlabel "Prüfungssysteme"@de;
-    skos:broader w3i:2677c;
-    skos:inScheme w3i:;
-    skos:prefLabel "Virtuelle Lernumgebungen "@de.
-w3i:839e9
-    a skos:Concept;
-    skos:altlabel "Multimedia-Ausstattung"@de;
-    skos:broader w3i:2677c;
-    skos:inScheme w3i:;
-    skos:prefLabel "IT-Basis"@de.
 w3i:83f3e
     a skos:Concept;
-    skos:narrower w3i:11d9d, w3i:29a63, w3i:47db9, w3i:4bd03, w3i:f9086;
-    skos:prefLabel "Handlungsfelder der Lehre"@de;
+    skos:prefLabel "Persönliche/strukturelle Probleme"@de ;
+    skos:example 
+        "Finanzen und Karriere"@de, 
+        "Erfolgsdruck"@de,
+        "gesellschaftl. Rahmenbedingungen und Erwartungen"@de ;
     skos:topConceptOf w3i: .
-w3i:88c16
-    a skos:Concept;
-    skos:broader w3i:2677c;
-    skos:inScheme w3i:;
-    skos:prefLabel "Verwaltungsprozesse"@de.
-w3i:92fe9
-    a skos:Concept;
-    skos:broader w3i:d5182;
-    skos:inScheme w3i:;
-    skos:prefLabel "Support für Lehrende"@de.
-w3i:a413d
-    a skos:Concept;
-    skos:altlabel "Lernstandsanalysen"@de;
-    skos:broader w3i:2677c;
-    skos:inScheme w3i:;
-    skos:prefLabel "Lernassistenzsysteme"@de.
-w3i:a5d24
-    a skos:Concept;
-    skos:broader w3i:b44d8;
-    skos:inScheme w3i:;
-    skos:prefLabel "Hochschulübergreifende Netzwerke"@de.
-w3i:a8035
-    a skos:Concept;
-    skos:broader w3i:b44d8;
-    skos:inScheme w3i:;
-    skos:prefLabel "Akquise"@de.
 w3i:b44d8
     a skos:Concept;
-    skos:narrower
-        w3i:15298, w3i:32100, w3i:5aae2, w3i:6ef67, w3i:a5d24, w3i:a8035,
-        w3i:cd4cf, w3i:fd4a0;
-        skos:prefLabel "Strukturell-organisatorische Rahmenbedingungen"@de ;
+    skos:prefLabel "Austausch und Vernetzung"@de ;
+    skos:example 
+        "Hochschulübergreifende Netzwerke"@de,
+        "Vernetzung, Austausch, Kollaboration, Communitybuilding"@de,
+        "Austauschforen/Innovationslabore"@de ;
     skos:topConceptOf w3i: .
-w3i:cd4cf
-    a skos:Concept;
-    skos:broader w3i:b44d8;
-    skos:hiddenLabel "Studienorganisatorische Verankerung"@de;
-    skos:inScheme w3i:;
-    skos:prefLabel "Curriculare Verankerung"@de.
-w3i:d1bdc
-    a skos:Concept;
-    skos:altlabel "Kollaborations-Tools"@de;
-    skos:broader w3i:2677c;
-    skos:inScheme w3i:;
-    skos:prefLabel "Plattformen"@de.
 w3i:d5182
     a skos:Concept;
-    skos:narrower
-    w3i:2977f, w3i:4563e, w3i:48ecf, w3i:53abd, w3i:67e63, w3i:92fe9, w3i:dde41;
-    skos:prefLabel "Support-Strukturen"@de;
+    skos:prefLabel "Support-Strukturen"@de ;
+    skos:example
+        "Support für Lehrende"@de,
+        "Selbstlern- und Informationsmaterialien"@de,
+        "Weiterbildung, Coaching, Beratung"@de ;
     skos:topConceptOf w3i: .
-w3i:dde41
+w3i:6588c
     a skos:Concept;
-    skos:broader w3i:d5182;
-    skos:inScheme w3i:;
-    skos:prefLabel "Selbstlernmodule"@de.
-w3i:f9086
+    skos:prefLabel "Organisatorische Fragen (auch Verwaltung & Recht)"@de ;
+    skos:example
+        "Datenschutz und Rechtssicherheit"@de,
+        "Qualitätsmanagement"@de,
+        "Akquise & Anreize, Anreizsysteme"@de,
+        "Supportzentren, Ausbau/Bündelung von Supportstrukturen"@de,
+        "Curriculare & studienorganisatorische Verankerung"@de,
+        "virtuelle Lernumgebungen & Prüfungssysteme"@de ;
+    skos:topConceptOf w3i: .
+w3i:721d4
     a skos:Concept;
-    skos:broader w3i:83f3e;
-    skos:inScheme w3i:;
-    skos:prefLabel "Prüfen"@de.
-w3i:fd4a0
+    skos:prefLabel "Technisch-Räumliche Infrastruktur"@de ;
+    skos:example
+        "IT-Basis und Multimedia-Ausstattung"@de,
+        "Verwaltungsprozesse"@de,
+        "Lernassistenzsysteme & Lernstandanalysen"@de,
+        "Plattformen & Kollaborationstools"@de,
+        "virtuelle Lernumgebungen & Prüfungssysteme"@de,
+        "Lehr-Lernraumausstattung"@de,
+        "Medientechnik"@de ;
+    skos:topConceptOf w3i: .
+w3i:839e9
     a skos:Concept;
-    skos:broader w3i:b44d8;
-    skos:inScheme w3i:;
-    skos:prefLabel "Qualitätsmanagement"@de.
+    skos:prefLabel "Strategische Probleme"@de ;
+    skos:example
+        "Leitbild- und Strategieentwicklung"@de,
+        "Strategische Verankerung"@de ;
+    skos:topConceptOf w3i: .
