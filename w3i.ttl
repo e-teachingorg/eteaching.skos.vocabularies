@@ -10,64 +10,35 @@ w3i:
 w3i:2677c
     a skos:Concept ;
     skos:prefLabel "Didaktische Handlungsfelder der Lehre"@de ;
-    skos:example 
-        "Lehre planen und durchführen"@de,
-        "Prüfen"@de, 
-        "Beraten und Betreuen"@de,
-        "Lehre entwickeln"@de,
-        "Lehre evaluieren"@de ;
+    skos:example "Lehre planen und durchführen, Prüfen, Beraten und Betreuen, Lehre entwickeln, Lehre evaluieren"@de ;
     skos:topConceptOf w3i: .
 w3i:83f3e
     a skos:Concept;
     skos:prefLabel "Persönliche/strukturelle Probleme"@de ;
-    skos:example 
-        "Finanzen und Karriere"@de, 
-        "Erfolgsdruck"@de,
-        "gesellschaftl. Rahmenbedingungen und Erwartungen"@de ;
+    skos:example "Finanzen und Karriere, Erfolgsdruck, gesellschaftl. Rahmenbedingungen und Erwartungen"@de ;
     skos:topConceptOf w3i: .
 w3i:b44d8
     a skos:Concept;
     skos:prefLabel "Austausch und Vernetzung"@de ;
-    skos:example 
-        "Hochschulübergreifende Netzwerke"@de,
-        "Vernetzung, Austausch, Kollaboration, Communitybuilding"@de,
-        "Austauschforen/Innovationslabore"@de ;
+    skos:example "Hochschulübergreifende Netzwerke, Vernetzung, Austausch, Kollaboration, Communitybuilding, Austauschforen/Innovationslabore"@de ;
     skos:topConceptOf w3i: .
 w3i:d5182
     a skos:Concept;
     skos:prefLabel "Support-Strukturen"@de ;
-    skos:example
-        "Support für Lehrende"@de,
-        "Selbstlern- und Informationsmaterialien"@de,
-        "Weiterbildung, Coaching, Beratung"@de ;
+    skos:example "Support für Lehrende, Selbstlern- und Informationsmaterialien, Weiterbildung, Coaching, Beratung"@de ;
     skos:topConceptOf w3i: .
 w3i:6588c
     a skos:Concept;
     skos:prefLabel "Organisatorische Fragen (auch Verwaltung & Recht)"@de ;
-    skos:example
-        "Datenschutz und Rechtssicherheit"@de,
-        "Qualitätsmanagement"@de,
-        "Akquise & Anreize, Anreizsysteme"@de,
-        "Supportzentren, Ausbau/Bündelung von Supportstrukturen"@de,
-        "Curriculare & studienorganisatorische Verankerung"@de,
-        "virtuelle Lernumgebungen & Prüfungssysteme"@de ;
+    skos:example "Datenschutz und Rechtssicherheit, Qualitätsmanagement, Akquise & Anreize, Anreizsysteme, Supportzentren, Ausbau/Bündelung von Supportstrukturen, Curriculare & studienorganisatorische Verankerung"@de ;
     skos:topConceptOf w3i: .
 w3i:721d4
     a skos:Concept;
     skos:prefLabel "Technisch-Räumliche Infrastruktur"@de ;
-    skos:example
-        "IT-Basis und Multimedia-Ausstattung"@de,
-        "Verwaltungsprozesse"@de,
-        "Lernassistenzsysteme & Lernstandanalysen"@de,
-        "Plattformen & Kollaborationstools"@de,
-        "virtuelle Lernumgebungen & Prüfungssysteme"@de,
-        "Lehr-Lernraumausstattung"@de,
-        "Medientechnik"@de ;
+    skos:example "IT-Basis und Multimedia-Ausstattung, Verwaltungsprozesse, Lernassistenzsysteme & Lernstandanalysen, Plattformen & Kollaborationstools, virtuelle Lernumgebungen & Prüfungssysteme, Lehr-Lernraumausstattung, Medientechnik"@de ;
     skos:topConceptOf w3i: .
 w3i:839e9
     a skos:Concept;
     skos:prefLabel "Strategische Probleme"@de ;
-    skos:example
-        "Leitbild- und Strategieentwicklung"@de,
-        "Strategische Verankerung"@de ;
+    skos:example "Leitbild- und Strategieentwicklung, Strategische Verankerung"@de ;
     skos:topConceptOf w3i: .
