@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Strategische Probleme"
   },
+  "example": {
+    "de": "Leitbild- und Strategieentwicklung, Strategische Verankerung"
+  },
   "inScheme": [
     {
       "id": "https://example.org/w3i/",

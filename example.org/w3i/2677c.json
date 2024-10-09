@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Didaktische Handlungsfelder der Lehre"
   },
+  "example": {
+    "de": "Lehre planen und durchführen, Prüfen, Beraten und Betreuen, Lehre entwickeln, Lehre evaluieren"
+  },
   "inScheme": [
     {
       "id": "https://example.org/w3i/",

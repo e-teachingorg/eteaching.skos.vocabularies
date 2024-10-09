@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Austausch und Vernetzung"
   },
+  "example": {
+    "de": "Hochschulübergreifende Netzwerke, Vernetzung, Austausch, Kollaboration, Communitybuilding, Austauschforen/Innovationslabore"
+  },
   "inScheme": [
     {
       "id": "https://example.org/w3i/",

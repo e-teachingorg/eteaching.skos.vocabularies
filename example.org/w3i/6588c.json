@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Organisatorische Fragen (auch Verwaltung & Recht)"
   },
+  "example": {
+    "de": "Datenschutz und Rechtssicherheit, Qualitätsmanagement, Akquise & Anreize, Anreizsysteme, Supportzentren, Ausbau/Bündelung von Supportstrukturen, Curriculare & studienorganisatorische Verankerung"
+  },
   "inScheme": [
     {
       "id": "https://example.org/w3i/",

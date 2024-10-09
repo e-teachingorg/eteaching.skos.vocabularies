@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Support-Strukturen"
   },
+  "example": {
+    "de": "Support für Lehrende, Selbstlern- und Informationsmaterialien, Weiterbildung, Coaching, Beratung"
+  },
   "inScheme": [
     {
       "id": "https://example.org/w3i/",

@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Persönliche/strukturelle Probleme"
   },
+  "example": {
+    "de": "Finanzen und Karriere, Erfolgsdruck, gesellschaftl. Rahmenbedingungen und Erwartungen"
+  },
   "inScheme": [
     {
       "id": "https://example.org/w3i/",

@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Technisch-Räumliche Infrastruktur"
   },
+  "example": {
+    "de": "IT-Basis und Multimedia-Ausstattung, Verwaltungsprozesse, Lernassistenzsysteme & Lernstandanalysen, Plattformen & Kollaborationstools, virtuelle Lernumgebungen & Prüfungssysteme, Lehr-Lernraumausstattung, Medientechnik"
+  },
   "inScheme": [
     {
       "id": "https://example.org/w3i/",
