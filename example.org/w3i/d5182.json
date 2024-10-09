@@ -4,55 +4,11 @@
   "prefLabel": {
     "de": "Support-Strukturen"
   },
-  "narrower": [
-    {
-      "id": "https://example.org/w3i/2977f",
-      "prefLabel": {
-        "de": "Coaching"
-      }
-    },
-    {
-      "id": "https://example.org/w3i/4563e",
-      "prefLabel": {
-        "de": "Vernetzung"
-      }
-    },
-    {
-      "id": "https://example.org/w3i/48ecf",
-      "prefLabel": {
-        "de": "Weiterbildung"
-      }
-    },
-    {
-      "id": "https://example.org/w3i/53abd",
-      "prefLabel": {
-        "de": "Beratung"
-      }
-    },
-    {
-      "id": "https://example.org/w3i/67e63",
-      "prefLabel": {
-        "de": "Informationsmaterialien"
-      }
-    },
-    {
-      "id": "https://example.org/w3i/92fe9",
-      "prefLabel": {
-        "de": "Support für Lehrende"
-      }
-    },
-    {
-      "id": "https://example.org/w3i/dde41",
-      "prefLabel": {
-        "de": "Selbstlernmodule"
-      }
-    }
-  ],
   "inScheme": [
     {
       "id": "https://example.org/w3i/",
       "title": {
-        "de": "#about"
+        "de": "Problemfelder"
       }
     }
   ],
@@ -65,7 +21,7 @@
     {
       "id": "https://example.org/w3i/",
       "title": {
-        "de": "#about"
+        "de": "Problemfelder"
       }
     }
   ],

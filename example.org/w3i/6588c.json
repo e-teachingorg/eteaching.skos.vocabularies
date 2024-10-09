@@ -2,25 +2,27 @@
   "id": "https://example.org/w3i/6588c",
   "type": "Concept",
   "prefLabel": {
-    "de": "Lehr-Lernraum-Ausstattung"
-  },
-  "broader": {
-    "id": "https://example.org/w3i/2677c",
-    "prefLabel": {
-      "de": "Technisch-räumliche Infrastruktur"
-    }
+    "de": "Organisatorische Fragen (auch Verwaltung & Recht)"
   },
   "inScheme": [
     {
       "id": "https://example.org/w3i/",
       "title": {
-        "de": "#about"
+        "de": "Problemfelder"
       }
     }
   ],
   "inSchemeAll": [
     {
       "id": "https://example.org/w3i/"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "https://example.org/w3i/",
+      "title": {
+        "de": "Problemfelder"
+      }
     }
   ],
   "@context": {
