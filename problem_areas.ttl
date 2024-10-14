@@ -1,44 +1,44 @@
-@prefix problemfelder: <https://www.e-teaching.org/etresources/e-teachingorg-vocabularies/problemfelder/> .
+@prefix problem_areas: <https://www.e-teaching.org/etresources/e-teachingorg-vocabularies/problem_areas/> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-problemfelder:
+problem_areas:
     a skos:ConceptScheme;
-    dct:title "Problemfelder"@de ;
-    skos:hasTopConcept problemfelder:2677c, problemfelder:83f3e, problemfelder:b44d8, problemfelder:d5182, problemfelder:6588c, problemfelder:721d4, problemfelder:839e9 .
-problemfelder:2677c
+    dct:title "problem_areas"@de ;
+    skos:hasTopConcept problem_areas:2677c, problem_areas:83f3e, problem_areas:b44d8, problem_areas:d5182, problem_areas:6588c, problem_areas:721d4, problem_areas:839e9 .
+problem_areas:2677c
     a skos:Concept ;
     skos:prefLabel "Didaktische Handlungsfelder der Lehre"@de ;
     skos:example "Lehre planen und durchführen, Prüfen, Beraten und Betreuen, Lehre entwickeln, Lehre evaluieren"@de ;
-    skos:topConceptOf problemfelder: .
-problemfelder:83f3e
+    skos:topConceptOf problem_areas: .
+problem_areas:83f3e
     a skos:Concept;
     skos:prefLabel "Persönliche/strukturelle Probleme"@de ;
     skos:example "Finanzen und Karriere, Erfolgsdruck, gesellschaftl. Rahmenbedingungen und Erwartungen"@de ;
-    skos:topConceptOf problemfelder: .
-problemfelder:b44d8
+    skos:topConceptOf problem_areas: .
+problem_areas:b44d8
     a skos:Concept;
     skos:prefLabel "Austausch und Vernetzung"@de ;
     skos:example "Hochschulübergreifende Netzwerke, Vernetzung, Austausch, Kollaboration, Communitybuilding, Austauschforen/Innovationslabore"@de ;
-    skos:topConceptOf problemfelder: .
-problemfelder:d5182
+    skos:topConceptOf problem_areas: .
+problem_areas:d5182
     a skos:Concept;
     skos:prefLabel "Support-Strukturen"@de ;
     skos:example "Support für Lehrende, Selbstlern- und Informationsmaterialien, Weiterbildung, Coaching, Beratung"@de ;
-    skos:topConceptOf problemfelder: .
-problemfelder:6588c
+    skos:topConceptOf problem_areas: .
+problem_areas:6588c
     a skos:Concept;
     skos:prefLabel "Organisatorische Fragen (auch Verwaltung & Recht)"@de ;
     skos:example "Datenschutz und Rechtssicherheit, Qualitätsmanagement, Akquise & Anreize, Anreizsysteme, Supportzentren, Ausbau/Bündelung von Supportstrukturen, Curriculare & studienorganisatorische Verankerung"@de ;
-    skos:topConceptOf problemfelder: .
-problemfelder:721d4
+    skos:topConceptOf problem_areas: .
+problem_areas:721d4
     a skos:Concept;
     skos:prefLabel "Technisch-Räumliche Infrastruktur"@de ;
     skos:example "IT-Basis und Multimedia-Ausstattung, Verwaltungsprozesse, Lernassistenzsysteme & Lernstandanalysen, Plattformen & Kollaborationstools, virtuelle Lernumgebungen & Prüfungssysteme, Lehr-Lernraumausstattung, Medientechnik"@de ;
-    skos:topConceptOf problemfelder: .
-problemfelder:839e9
+    skos:topConceptOf problem_areas: .
+problem_areas:839e9
     a skos:Concept;
     skos:prefLabel "Strategische Probleme"@de ;
     skos:example "Leitbild- und Strategieentwicklung, Strategische Verankerung"@de ;
-    skos:topConceptOf problemfelder: .
+    skos:topConceptOf problem_areas: .
