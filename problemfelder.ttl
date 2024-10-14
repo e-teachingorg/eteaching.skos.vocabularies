@@ -1,44 +1,44 @@
-@prefix w3i: <https://example.org/w3i/> .
+@prefix w3i: <https://www.e-teaching.org/etresources/e-teachingorg-vocabularies/problemfelder/> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-w3i:
+problemfelder:
     a skos:ConceptScheme;
     dct:title "Problemfelder"@de ;
-    skos:hasTopConcept w3i:2677c, w3i:83f3e, w3i:b44d8, w3i:d5182, w3i:6588c, w3i:721d4, w3i:839e9 .
-w3i:2677c
+    skos:hasTopConcept problemfelder:2677c, problemfelder:83f3e, problemfelder:b44d8, problemfelder:d5182, problemfelder:6588c, problemfelder:721d4, problemfelder:839e9 .
+problemfelder:2677c
     a skos:Concept ;
     skos:prefLabel "Didaktische Handlungsfelder der Lehre"@de ;
     skos:example "Lehre planen und durchführen, Prüfen, Beraten und Betreuen, Lehre entwickeln, Lehre evaluieren"@de ;
-    skos:topConceptOf w3i: .
-w3i:83f3e
+    skos:topConceptOf problemfelder: .
+problemfelder:83f3e
     a skos:Concept;
     skos:prefLabel "Persönliche/strukturelle Probleme"@de ;
     skos:example "Finanzen und Karriere, Erfolgsdruck, gesellschaftl. Rahmenbedingungen und Erwartungen"@de ;
-    skos:topConceptOf w3i: .
-w3i:b44d8
+    skos:topConceptOf problemfelder: .
+problemfelder:b44d8
     a skos:Concept;
     skos:prefLabel "Austausch und Vernetzung"@de ;
     skos:example "Hochschulübergreifende Netzwerke, Vernetzung, Austausch, Kollaboration, Communitybuilding, Austauschforen/Innovationslabore"@de ;
-    skos:topConceptOf w3i: .
-w3i:d5182
+    skos:topConceptOf problemfelder: .
+problemfelder:d5182
     a skos:Concept;
     skos:prefLabel "Support-Strukturen"@de ;
     skos:example "Support für Lehrende, Selbstlern- und Informationsmaterialien, Weiterbildung, Coaching, Beratung"@de ;
-    skos:topConceptOf w3i: .
-w3i:6588c
+    skos:topConceptOf problemfelder: .
+problemfelder:6588c
     a skos:Concept;
     skos:prefLabel "Organisatorische Fragen (auch Verwaltung & Recht)"@de ;
     skos:example "Datenschutz und Rechtssicherheit, Qualitätsmanagement, Akquise & Anreize, Anreizsysteme, Supportzentren, Ausbau/Bündelung von Supportstrukturen, Curriculare & studienorganisatorische Verankerung"@de ;
-    skos:topConceptOf w3i: .
-w3i:721d4
+    skos:topConceptOf problemfelder: .
+problemfelder:721d4
     a skos:Concept;
     skos:prefLabel "Technisch-Räumliche Infrastruktur"@de ;
     skos:example "IT-Basis und Multimedia-Ausstattung, Verwaltungsprozesse, Lernassistenzsysteme & Lernstandanalysen, Plattformen & Kollaborationstools, virtuelle Lernumgebungen & Prüfungssysteme, Lehr-Lernraumausstattung, Medientechnik"@de ;
-    skos:topConceptOf w3i: .
-w3i:839e9
+    skos:topConceptOf problemfelder: .
+problemfelder:839e9
     a skos:Concept;
     skos:prefLabel "Strategische Probleme"@de ;
     skos:example "Leitbild- und Strategieentwicklung, Strategische Verankerung"@de ;
-    skos:topConceptOf w3i: .
+    skos:topConceptOf problemfelder: .
