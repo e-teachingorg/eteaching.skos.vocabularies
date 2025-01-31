@@ -10,35 +10,35 @@ problem_areas:
 problem_areas:2677c
     a skos:Concept ;
     skos:prefLabel "Didaktische Handlungsfelder der Lehre"@de ;
-    skos:example "Lehre planen und durchführen, Prüfen, Beraten und Betreuen, Lehre entwickeln, Lehre evaluieren"@de ;
+    skos:example "Bereiche der Lehre, in denen Probleme auftreten können"@de ;
     skos:topConceptOf problem_areas: .
 problem_areas:83f3e
     a skos:Concept;
-    skos:prefLabel "Persönliche/strukturelle Probleme"@de ;
-    skos:example "Finanzen und Karriere, Erfolgsdruck, gesellschaftl. Rahmenbedingungen und Erwartungen"@de ;
+    skos:prefLabel "Persönliche, strukturelle und gesellschaftliche Aspekte"@de ;
+    skos:example "Bereiche, die Einfluss auf die Lehre haben können, aber eher außerhalb dessen liegen, was ein Lehrportal adressieren kann"@de ;
     skos:topConceptOf problem_areas: .
 problem_areas:b44d8
     a skos:Concept;
     skos:prefLabel "Austausch und Vernetzung"@de ;
-    skos:example "Hochschulübergreifende Netzwerke, Vernetzung, Austausch, Kollaboration, Communitybuilding, Austauschforen/Innovationslabore"@de ;
+    skos:example "Dieses Problemfeld umfasst alle Probleme, die in der Zusammenarbeit mit anderen Lehrpersonen entstehen oder damit adressiert werden können"@de ;
     skos:topConceptOf problem_areas: .
 problem_areas:d5182
     a skos:Concept;
     skos:prefLabel "Support-Strukturen"@de ;
-    skos:example "Support für Lehrende, Selbstlern- und Informationsmaterialien, Weiterbildung, Coaching, Beratung"@de ;
+    skos:example "Probleme im Bereich des Lehrendensupports"@de ;
     skos:topConceptOf problem_areas: .
 problem_areas:6588c
     a skos:Concept;
-    skos:prefLabel "Organisatorische Fragen (auch Verwaltung & Recht)"@de ;
-    skos:example "Datenschutz und Rechtssicherheit, Qualitätsmanagement, Akquise & Anreize, Anreizsysteme, Supportzentren, Ausbau/Bündelung von Supportstrukturen, Curriculare & studienorganisatorische Verankerung"@de ;
+    skos:prefLabel "Organisatorische Fragen"@de ;
+    skos:example "Probleme, welche die Bereiche Verwaltung, Recht und Studienorganisation tangieren"@de ;
     skos:topConceptOf problem_areas: .
 problem_areas:721d4
     a skos:Concept;
     skos:prefLabel "Technisch-Räumliche Infrastruktur"@de ;
-    skos:example "IT-Basis und Multimedia-Ausstattung, Verwaltungsprozesse, Lernassistenzsysteme & Lernstandanalysen, Plattformen & Kollaborationstools, virtuelle Lernumgebungen & Prüfungssysteme, Lehr-Lernraumausstattung, Medientechnik"@de ;
+    skos:example "Probleme, die im Zusammenhang mit technischen oder räumlichen Ressourcen auftreten"@de ;
     skos:topConceptOf problem_areas: .
 problem_areas:839e9
     a skos:Concept;
     skos:prefLabel "Strategische Probleme"@de ;
-    skos:example "Leitbild- und Strategieentwicklung, Strategische Verankerung"@de ;
+    skos:example "Probleme, die auf einer strategischen Ebene angesiedelt sind"@de ;
     skos:topConceptOf problem_areas: .
