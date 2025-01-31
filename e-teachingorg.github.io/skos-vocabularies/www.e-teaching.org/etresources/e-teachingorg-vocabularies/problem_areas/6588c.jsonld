@@ -2,10 +2,10 @@
   "id": "https://e-teachingorg.github.io/skos-vocabularies/www.e-teaching.org/etresources/e-teachingorg-vocabularies/problem_areas/6588c",
   "type": "Concept",
   "prefLabel": {
-    "de": "Organisatorische Fragen (auch Verwaltung & Recht)"
+    "de": "Organisatorische Fragen"
   },
   "example": {
-    "de": "Datenschutz und Rechtssicherheit, Qualitätsmanagement, Akquise & Anreize, Anreizsysteme, Supportzentren, Ausbau/Bündelung von Supportstrukturen, Curriculare & studienorganisatorische Verankerung"
+    "de": "Probleme, welche die Bereiche Verwaltung, Recht und Studienorganisation tangieren"
   },
   "inScheme": [
     {

@@ -2,10 +2,10 @@
   "id": "https://e-teachingorg.github.io/skos-vocabularies/www.e-teaching.org/etresources/e-teachingorg-vocabularies/problem_areas/83f3e",
   "type": "Concept",
   "prefLabel": {
-    "de": "Persönliche/strukturelle Probleme"
+    "de": "Persönliche, strukturelle und gesellschaftliche Aspekte"
   },
   "example": {
-    "de": "Finanzen und Karriere, Erfolgsdruck, gesellschaftl. Rahmenbedingungen und Erwartungen"
+    "de": "Bereiche, die Einfluss auf die Lehre haben können, aber eher außerhalb dessen liegen, was ein Lehrportal adressieren kann"
   },
   "inScheme": [
     {
