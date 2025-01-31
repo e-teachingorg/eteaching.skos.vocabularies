@@ -1,11 +1,11 @@
 {
-  "id": "https://e-teachingorg.github.io/skos-vocabularies/www.e-teaching.org/etresources/e-teachingorg-vocabularies/affected_by_problem/b45d8",
+  "id": "https://e-teachingorg.github.io/skos-vocabularies/www.e-teaching.org/etresources/e-teachingorg-vocabularies/affected_by_problem/pt_teacher",
   "type": "Concept",
   "prefLabel": {
-    "de": "Support"
+    "de": "Lehrperson"
   },
   "example": {
-    "de": "Personen, die Lehrkräfte bei der Durchführung ihrer Lehre unterstützen"
+    "de": "Personen, die mit der Vermittlung von Wissen befasst sind"
   },
   "inScheme": [
     {

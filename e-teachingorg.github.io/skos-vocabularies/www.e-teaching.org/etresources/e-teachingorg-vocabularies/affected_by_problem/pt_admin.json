@@ -1,11 +1,11 @@
 {
-  "id": "https://e-teachingorg.github.io/skos-vocabularies/www.e-teaching.org/etresources/e-teachingorg-vocabularies/affected_by_problem/2777c",
+  "id": "https://e-teachingorg.github.io/skos-vocabularies/www.e-teaching.org/etresources/e-teachingorg-vocabularies/affected_by_problem/pt_admin",
   "type": "Concept",
   "prefLabel": {
-    "de": "Lehrperson"
+    "de": "Verwaltung"
   },
   "example": {
-    "de": "Personen, die mit der Vermittlung von Wissen befasst sind"
+    "de": "Personen, die mit Verwaltungsaspekten der Lehre betraut sind"
   },
   "inScheme": [
     {

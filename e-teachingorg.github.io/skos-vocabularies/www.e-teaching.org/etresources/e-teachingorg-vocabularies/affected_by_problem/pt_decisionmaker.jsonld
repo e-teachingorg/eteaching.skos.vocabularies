@@ -1,11 +1,11 @@
 {
-  "id": "https://e-teachingorg.github.io/skos-vocabularies/www.e-teaching.org/etresources/e-teachingorg-vocabularies/affected_by_problem/d5282",
+  "id": "https://e-teachingorg.github.io/skos-vocabularies/www.e-teaching.org/etresources/e-teachingorg-vocabularies/affected_by_problem/pt_decisionmaker",
   "type": "Concept",
   "prefLabel": {
-    "de": "Verwaltung"
+    "de": "Entscheider"
   },
   "example": {
-    "de": "Personen, die mit Verwaltungsaspekten der Lehre betraut sind"
+    "de": "Personen, die nicht direkt in die Lehre eingebunden sind, sondern die Rahmenbedingungen beeinflussen"
   },
   "inScheme": [
     {
