@@ -1,0 +1,29 @@
+@prefix affected_by_problem: <https://e-teachingorg.github.io/skos-vocabularies/www.e-teaching.org/etresources/e-teachingorg-vocabularies/affected_by_problem/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+affected_by_problem:
+    a skos:ConceptScheme;
+    dct:title "Problemträger"@de ;
+    skos:hasTopConcept affected_by_problem:2777c, affected_by_problem:84f3e, affected_by_problem:b45d8, affected_by_problem:d5282
+affected_by_problem:2777c
+    a skos:Concept ;
+    skos:prefLabel "Lehrperson"@de ;
+    skos:example "Personen, die mit der Vermittlung von Wissen befasst sind"@de ;
+    skos:topConceptOf affected_by_problem: .
+affected_by_problem:84f3e
+    a skos:Concept;
+    skos:prefLabel "Entscheider"@de ;
+    skos:example "Personen, die nicht direkt in die Lehre eingebunden sind, sondern die Rahmenbedingungen beeinflussen"@de ;
+    skos:topConceptOf affected_by_problem: .
+affected_by_problem:b45d8
+    a skos:Concept;
+    skos:prefLabel "Support"@de ;
+    skos:example "Personen, die Lehrkräfte bei der Durchführung ihrer Lehre unterstützen"@de ;
+    skos:topConceptOf affected_by_problem: .
+affected_by_problem:d5282
+    a skos:Concept;
+    skos:prefLabel "Verwaltung"@de ;
+    skos:example "Personen, die mit Verwaltungsaspekten der Lehre betraut sind"@de ;
+    skos:topConceptOf affected_by_problem: .
