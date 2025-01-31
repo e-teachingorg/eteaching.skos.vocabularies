@@ -6,7 +6,7 @@
 affected_by_problem:
     a skos:ConceptScheme;
     dct:title "Problemträger"@de ;
-    skos:hasTopConcept affected_by_problem:2777c, affected_by_problem:84f3e, affected_by_problem:b45d8, affected_by_problem:d5282
+    skos:hasTopConcept affected_by_problem:2777c, affected_by_problem:84f3e, affected_by_problem:b45d8, affected_by_problem:d5282 .
 affected_by_problem:2777c
     a skos:Concept ;
     skos:prefLabel "Lehrperson"@de ;
