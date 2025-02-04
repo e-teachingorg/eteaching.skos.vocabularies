@@ -6,6 +6,7 @@
 problem_areas:
     a skos:ConceptScheme;
     dct:title "Problemfelder"@de ;
+    dct:description "Bereiche der Hochschullehre, in denen Probleme auftauchen können"@de;
     skos:hasTopConcept problem_areas:pa_teaching, problem_areas:pa_persoc, problem_areas:pa_connect, problem_areas:pa_support, problem_areas:pa_organisation, problem_areas:pa_infrastructure, problem_areas:pa_strategy .
 problem_areas:pa_teaching
     a skos:Concept ;

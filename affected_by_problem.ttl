@@ -6,6 +6,7 @@
 affected_by_problem:
     a skos:ConceptScheme;
     dct:title "Problemträger"@de ;
+    dct:description "Die betroffene Person, die das Problem hat und nach Informationen sucht"@de;
     skos:hasTopConcept affected_by_problem:ap_teacher, affected_by_problem:ap_decisionmaker, affected_by_problem:ap_support, affected_by_problem:ap_admin .
 affected_by_problem:ap_teacher
     a skos:Concept ;
