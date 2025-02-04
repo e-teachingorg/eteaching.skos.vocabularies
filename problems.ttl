@@ -5,7 +5,7 @@
 pro:
     a skos:ConceptScheme;
     dct:description
-    "Probleme, die in der Hochschullehre auftreten k\u00f6nnen"@en;
+    "Probleme, die in der Hochschullehre auftreten k\u00f6nnen"@de;
     dct:title "Problem"@de;
     skos:hasTopConcept
         pro:01d98, pro:0ae36, pro:13142, pro:210ba, pro:27760, pro:471b5,

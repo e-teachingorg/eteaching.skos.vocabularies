@@ -4,8 +4,8 @@
 
 sym:
     a skos:ConceptScheme;
-    dct:description "Symptome f\u00fcr Probleme in der Hochschullehre"@en;
-    dct:title "Symptom"@en;
+    dct:description "Symptome f\u00fcr Probleme in der Hochschullehre"@de;
+    dct:title "Symptom"@de;
     skos:hasTopConcept
         sym:007ed, sym:087f2, sym:0c3be, sym:24dd5, sym:40fe0, sym:49aa4,
         sym:4ee69, sym:59838, sym:6032c, sym:66906, sym:67258, sym:67c2e,
