@@ -6,24 +6,28 @@
 affected_by_problem:
     a skos:ConceptScheme;
     dct:title "Problemträger"@de ;
-    skos:hasTopConcept affected_by_problem:pt_teacher, affected_by_problem:pt_decisionmaker, affected_by_problem:pt_support, affected_by_problem:pt_admin .
-affected_by_problem:pt_teacher
+    skos:hasTopConcept affected_by_problem:ap_teacher, affected_by_problem:ap_decisionmaker, affected_by_problem:ap_support, affected_by_problem:ap_admin .
+affected_by_problem:ap_teacher
     a skos:Concept ;
     skos:prefLabel "Lehrperson"@de ;
-    skos:example "Personen, die mit der Vermittlung von Wissen befasst sind"@de ;
+    skos:definition "Personen, die mit der Vermittlung von Wissen befasst sind"@de ;
+    skos:example "Lehrende"@de ;
     skos:topConceptOf affected_by_problem: .
-affected_by_problem:pt_decisionmaker
+affected_by_problem:ap_decisionmaker
     a skos:Concept;
     skos:prefLabel "Entscheider"@de ;
-    skos:example "Personen, die nicht direkt in die Lehre eingebunden sind, sondern die Rahmenbedingungen beeinflussen"@de ;
+    skos:definition "Personen, die nicht direkt in die Lehre eingebunden sind, sondern die Rahmenbedingungen beeinflussen"@de ;
+    skos:example "Hochschulleitung, Studiengangsentwickler:innen, Projektverantwortliche"@de ;
     skos:topConceptOf affected_by_problem: .
-affected_by_problem:pt_support
+affected_by_problem:ap_support
     a skos:Concept;
     skos:prefLabel "Support"@de ;
-    skos:example "Personen, die Lehrkräfte bei der Durchführung ihrer Lehre unterstützen"@de ;
+    skos:definition "Personen, die Lehrkräfte bei der Durchführung ihrer Lehre unterstützen"@de ;
+    skos:example "E-Learning Zentrum/Hochschuldidaktik, IT- und technische Mitarbeit/Haustechnik"@de ;
     skos:topConceptOf affected_by_problem: .
-affected_by_problem:pt_admin
+affected_by_problem:ap_admin
     a skos:Concept;
     skos:prefLabel "Verwaltung"@de ;
-    skos:example "Personen, die mit Verwaltungsaspekten der Lehre betraut sind"@de ;
+    skos:definition "Personen, die mit Verwaltungsaspekten der Lehre betraut sind"@de ;
+    skos:example "Personal, Justiziariat, Datenschutz"@de ;
     skos:topConceptOf affected_by_problem: .

@@ -6,39 +6,46 @@
 problem_areas:
     a skos:ConceptScheme;
     dct:title "Problemfelder"@de ;
-    skos:hasTopConcept problem_areas:2677c, problem_areas:83f3e, problem_areas:b44d8, problem_areas:d5182, problem_areas:6588c, problem_areas:721d4, problem_areas:839e9 .
-problem_areas:2677c
+    skos:hasTopConcept problem_areas:pa_teaching, problem_areas:pa_persoc, problem_areas:pa_connect, problem_areas:pa_support, problem_areas:pa_organisation, problem_areas:pa_infrastructure, problem_areas:pa_strategy .
+problem_areas:pa_teaching
     a skos:Concept ;
     skos:prefLabel "Didaktische Handlungsfelder der Lehre"@de ;
-    skos:example "Bereiche der Lehre, in denen Probleme auftreten können"@de ;
+    skos:definition "Bereiche der Lehre, in denen Probleme auftreten können"@de ;
+    skos:example "Lehre planen und durchführen, Prüfen, Beraten und Betreuen, Lehre entwickeln, Lehre evaluieren"@de ;
     skos:topConceptOf problem_areas: .
-problem_areas:83f3e
+problem_areas:pa_persoc
     a skos:Concept;
     skos:prefLabel "Persönliche, strukturelle und gesellschaftliche Aspekte"@de ;
-    skos:example "Bereiche, die Einfluss auf die Lehre haben können, aber eher außerhalb dessen liegen, was ein Lehrportal adressieren kann"@de ;
+    skos:definition "Bereiche, die Einfluss auf die Lehre haben können, aber eher außerhalb dessen liegen, was ein Lehrportal adressieren kann"@de ;
+    skos:example "Finanzierung & Karriere, Erfolgsdruck, Gesell. Rahmenbedingungen und Erwartungen, Digitalisierung, Wertewandel"@de ;
     skos:topConceptOf problem_areas: .
-problem_areas:b44d8
+problem_areas:pa_connect
     a skos:Concept;
     skos:prefLabel "Austausch und Vernetzung"@de ;
-    skos:example "Dieses Problemfeld umfasst alle Probleme, die in der Zusammenarbeit mit anderen Lehrpersonen entstehen oder damit adressiert werden können"@de ;
+    skos:definition "Dieses Problemfeld umfasst alle Probleme, die in der Zusammenarbeit mit anderen Lehrpersonen entstehen oder damit adressiert werden können"@de ;
+    skos:example "Vernetzung, Austausch, Kooperation, Communitybuilding, Austauschforen/Innovationslabore, Hochschulübergreifende Netzwerke"@de ;
     skos:topConceptOf problem_areas: .
-problem_areas:d5182
+problem_areas:pa_support
     a skos:Concept;
     skos:prefLabel "Support-Strukturen"@de ;
-    skos:example "Probleme im Bereich des Lehrendensupports"@de ;
+    skos:definition "Probleme im Bereich des Lehrendensupports"@de ;
+    skos:example "Support für Lehrende, Selbstlernmodule und Informationsmaterialien, Weiterbildung, Coaching & Beratung"@de ;
     skos:topConceptOf problem_areas: .
-problem_areas:6588c
+problem_areas:pa_organisation
     a skos:Concept;
     skos:prefLabel "Organisatorische Fragen"@de ;
-    skos:example "Probleme, welche die Bereiche Verwaltung, Recht und Studienorganisation tangieren"@de ;
+    skos:definition "Probleme, welche die Bereiche Verwaltung, Recht und Studienorganisation tangieren"@de ;
+    skos:example "Datenschutz und Rechtssicherheit, Akquise & ANreize, Anreizsysteme, Supportzentren, Aufbau/Bündelung von Supportstrukturen, Curriculare & Studienoranisatorische Verankerung, Qualitätsmanagement"@de ;
     skos:topConceptOf problem_areas: .
-problem_areas:721d4
+problem_areas:pa_infrastructure
     a skos:Concept;
     skos:prefLabel "Technisch-Räumliche Infrastruktur"@de ;
-    skos:example "Probleme, die im Zusammenhang mit technischen oder räumlichen Ressourcen auftreten"@de ;
+    skos:definition "Probleme, die im Zusammenhang mit technischen oder räumlichen Ressourcen auftreten"@de ;
+    skos:example "IT-Basis und Multimedia-Ausstattung, Verwaltungsprozesse, Lernassistenzsysteme & Lernstandsanalysen, Plattformen und Kollaborationstools, Virtuelle Lernumgebungen & Prüfungssysteme, Lehr-Lernraum-Ausstattung, Medientechnik"@de ;
     skos:topConceptOf problem_areas: .
-problem_areas:839e9
+problem_areas:pa_strategy
     a skos:Concept;
     skos:prefLabel "Strategische Probleme"@de ;
-    skos:example "Probleme, die auf einer strategischen Ebene angesiedelt sind"@de ;
+    skos:definition "Probleme, die auf einer strategischen Ebene angesiedelt sind"@de ;
+    skos:example "Leitbild- und Strategieentwicklung, Strategische Verankerung"@de ;
     skos:topConceptOf problem_areas: .
