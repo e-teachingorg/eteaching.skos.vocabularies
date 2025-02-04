@@ -1,0 +1,184 @@
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix skos: <http://www.w3.org/2004/02/skos/core#>.
+@prefix pro: <https://e-teachingorg.github.io/skos-vocabularies/www.e-teaching.org/etresources/e-teachingorg-vocabularies/problem/>.
+
+pro:
+    a skos:ConceptScheme;
+    dct:description
+    "Probleme, die in der Hochschullehre auftreten k\u00f6nnen"@en;
+    dct:title "Problem"@de;
+    skos:hasTopConcept
+        pro:01d98, pro:0ae36, pro:13142, pro:210ba, pro:27760, pro:471b5,
+        pro:4e69d, pro:53908, pro:63910, pro:75a20, pro:77595, pro:8f7af,
+        pro:a3dfd, pro:a5f11, pro:ac4d4, pro:af157, pro:af4b2, pro:af97c,
+        pro:b041e, pro:ba8a1, pro:c0b7e, pro:c972d, pro:cde7c, pro:dc1b4,
+        pro:e3caa, pro:e6f2d, pro:fe1ad, pro:fe71c.
+pro:01d98
+    a skos:Concept;
+    skos:definition
+        "OER: Wenige Materialien zur eigenst\u00e4ndigen Erarbeitung eines Themas verf\u00fcgbar"@de;
+    skos:prefLabel "Begrenzte Verf\u00fcgbarkeit von Selbstlernmaterialien"@de;
+    skos:topConceptOf pro: .
+pro:0ae36
+    a skos:Concept;
+    skos:definition
+        "Verhaltensregeln, Bestehenskriterien, etc wurden nicht hinreichend kommuniziert"@de;
+    skos:prefLabel "mangelhafte Erwartungskommunikation"@de;
+    skos:topConceptOf pro: .
+pro:13142
+    a skos:Concept;
+    skos:definition
+    "Lehrperson erstellt ihre Lehrmaterialien und Pr\u00fcfungen selbst"@de;
+    skos:prefLabel
+    "individuelle Erstellung von Lehr-Materialien & Pr\u00fcfungen"@de;
+    skos:topConceptOf pro: .
+pro:210ba
+    a skos:Concept;
+    skos:definition
+        "Lehrende reflektieren nicht \u00fcber ihre Rolle als Lehrende und ihren Einfluss auf den Lernerfolg der Studierenden"@de;
+    skos:prefLabel "Mangel an Selbstreflexion der Lehrenden"@de;
+    skos:topConceptOf pro: .
+pro:27760
+    a skos:Concept;
+    skos:definition
+        "Die Lerninhalte sind wenig praxisrelevant oder die Praxisrelevanz wird nicht vermittelt"@de;
+    skos:prefLabel "mangelnde Praxisrelevanz"@de;
+    skos:topConceptOf pro: .
+pro:471b5
+    a skos:Concept;
+    skos:definition
+        "Ich will mich einfach nur informieren \u00fcber ein Thema, mit dem ich mich noch nicht auskenne"@de;
+    skos:prefLabel "Fehlendes Wissen zu einem Thema"@de;
+    skos:topConceptOf pro: .
+pro:4e69d
+    a skos:Concept;
+    skos:definition
+        "OER: Die Materialien sind veraltet und bilden nicht mehr den aktuellen Stand der Wissenschaft oder Didaktik ab"@de;
+    skos:prefLabel "Unzureichende Aktualit\u00e4t der Informationen"@de;
+    skos:topConceptOf pro: .
+pro:53908
+    a skos:Concept;
+    skos:definition
+        "Die \u00fcbergeordnete Organisationseinheit stellt keine oder falsche Standards zur Evaluierung der Lehre zu verf\u00fcgung"@de;
+    skos:prefLabel "Fehlende Standards f\u00fcr die Qualit\u00e4tssicherung"@de;
+    skos:topConceptOf pro: .
+pro:63910
+    a skos:Concept;
+    skos:definition
+        "Lehre ber\u00fccksichtigt nicht die individuellen Bed\u00fcrfnisse der Studierenden"@de;
+    skos:prefLabel "nicht-inklusive Lehre"@de;
+    skos:topConceptOf pro: .
+pro:75a20
+    a skos:Concept;
+    skos:definition
+        "Lehrende haben oft viele administrative Pflichten, wie die Pflege von Lehrplattformen, Pr\u00fcfungsvorbereitung, Evaluationen und Gremienarbeit, was Zeit f\u00fcr die eigentliche Lehre und Forschung verringert"@de;
+    skos:prefLabel "B\u00fcrokratische H\u00fcrden"@de;
+    skos:topConceptOf pro: .
+pro:77595
+    a skos:Concept;
+    skos:definition
+        "OER: Die Verwendung verf\u00fcgbarer Materialien wird nicht unterst\u00fctzt"@de;
+    skos:prefLabel
+    "es fehlen Anreize, Kompetenzen, Metadaten zur Nutzung von OER"@de;
+    skos:topConceptOf pro: .
+pro:8f7af
+    a skos:Concept;
+    skos:definition
+        "Wenn Lernplattformen (z.B. Moodle, Blackboard) oder andere digitale Medien technische Probleme haben oder ausfallen, k\u00f6nnen Lehrveranstaltungen beeintr\u00e4chtigt werden. Diese Ausf\u00e4lle f\u00fchren oft zu Frustration bei Lehrenden und Studierenden"@de;
+    skos:prefLabel "Technische Ausf\u00e4lle und St\u00f6rungen"@de;
+    skos:topConceptOf pro: .
+pro:a3dfd
+    a skos:Concept;
+    skos:definition
+    "Lehrperson korrigiert die Pr\u00fcgungsleistungen von Hand"@de;
+    skos:prefLabel "Manuelle Korrektur von Pr\u00fcfungen"@de;
+    skos:topConceptOf pro: .
+pro:a5f11
+    a skos:Concept;
+    skos:definition "Lehre wird nicht zeitlich flexibel/asynchron gestaltet"@de;
+    skos:prefLabel "mangelnde zeitliche Flexibilit\u00e4t"@de;
+    skos:topConceptOf pro: .
+pro:ac4d4
+    a skos:Concept;
+    skos:definition "Die zu vermittelnden Lerninhalte sind komplex"@de;
+    skos:prefLabel "Zu gro\u00dfer Stoffumfang"@de;
+    skos:topConceptOf pro: .
+pro:af157
+    a skos:Concept;
+    skos:definition
+        "Lehrende sind kaum mit einander vernetzt und tauschen sich nicht \u00fcber ihre Lehrerfahrungen aus"@de;
+    skos:prefLabel "Geringe Vernetzung unter Lehrenden"@de;
+    skos:topConceptOf pro: .
+pro:af4b2
+    a skos:Concept;
+    skos:definition
+        "Studierenden fehlen Grundlagen, um den Inhalt der Veranstaltung zu verstehen"@de;
+    skos:prefLabel "Fehlendes Vorwissen der Studierenden"@de;
+    skos:topConceptOf pro: .
+pro:af97c
+    a skos:Concept;
+    skos:definition
+        "Lehrende, die internationale Studierende unterrichten, k\u00f6nnen auf sprachliche Schwierigkeiten sto\u00dfen. Dies betrifft nicht nur das Verst\u00e4ndnis der Lehrinhalte, sondern auch die Kommunikation im Allgemeinen"@de;
+    skos:prefLabel "Sprachliche Barrieren"@de;
+    skos:topConceptOf pro: .
+pro:b041e
+    a skos:Concept;
+    skos:definition
+        "Lehrende werden nicht dabei unterst\u00fctzt, neue und innovative Lehrformate auszuprobieren"@de;
+    skos:prefLabel "Fehlende Unterst\u00fctzung f\u00fcr Lehrinnovationen"@de;
+    skos:topConceptOf pro: .
+pro:ba8a1
+    a skos:Concept;
+    skos:definition
+        "Lehrende haben Feedback (von Studierenden, Kolleg:innen, Expert:innen) bekommen, passen ihre Lehre aber nicht an"@de;
+    skos:prefLabel "Fehlende Umsetzung von Feedback"@de;
+    skos:topConceptOf pro: .
+pro:c0b7e
+    a skos:Concept;
+    skos:definition
+        "OER: Die verf\u00fcgbaren Materialien sind schwer zu verwenden (z.B. abh\u00e4nging von kommerzieller Software)"@de;
+    skos:prefLabel "Geringe Nutzerfreundlichkeit der Materialien"@de;
+    skos:topConceptOf pro: .
+pro:c972d
+    a skos:Concept;
+    skos:definition
+        "Die Gestaltung der Lehre wird durch die verf\u00fcgbaren r\u00e4umlichen Resourcen eingeschr\u00e4nkt"@de;
+    skos:prefLabel "Einschr\u00e4nkung durch r\u00e4umliche Ressourcen"@de;
+    skos:topConceptOf pro: .
+pro:cde7c
+    a skos:Concept;
+    skos:definition
+        "Lehrenden fehlt die zeitliche, r\u00e4umliche oder finanzielle Unterst\u00fctzung, um sich beruflich weiterzubilden"@de;
+    skos:prefLabel
+    "Fehlende M\u00f6glichkeiten zur beruflichen Weiterentwicklung"@de;
+    skos:topConceptOf pro: .
+pro:dc1b4
+    a skos:Concept;
+    skos:definition
+        "\u00dcberforderung durch verschiedene Tools: Der gleichzeitige Einsatz von mehreren digitalen Werkzeugen (z.B. Lernplattform, Response-System, digitale Literaturverwaltung) kann sowohl f\u00fcr Studierende als auch f\u00fcr Lehrende zu einer \u00dcberforderung f\u00fchren. Zu viele verschiedene Tools k\u00f6nnen un\u00fcbersichtlich und unpraktisch werden"@de;
+    skos:prefLabel "Komplexe Tools"@de;
+    skos:topConceptOf pro: .
+pro:e3caa
+    a skos:Concept;
+    skos:definition
+        "Die Lehrveranstaltung oder ihre einzelnen Sitzungen wurden nich angemessen geplant"@de;
+    skos:prefLabel "mangelhafte Planung der Lehrveranstaltung"@de;
+    skos:topConceptOf pro: .
+pro:e6f2d
+    a skos:Concept;
+    skos:definition
+        "Die Leistungen von Studierenden werden nicht neutral bewertet, sondern sind durch andere Faktoren verzerrt"@de;
+    skos:prefLabel "Assessment Bias"@de;
+    skos:topConceptOf pro: .
+pro:fe1ad
+    a skos:Concept;
+    skos:definition
+    "Der Stoff/das Material sind schlecht/falsch aufbereitet"@de;
+    skos:prefLabel "Schlechte Stoffaufbereitung"@de;
+    skos:topConceptOf pro: .
+pro:fe71c
+    a skos:Concept;
+    skos:definition
+    "Anforderungen wurden nicht ausreichend klar kommuniziert"@de;
+    skos:prefLabel "Unklare Aufgabenstellung"@de;
+    skos:topConceptOf pro: .

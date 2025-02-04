@@ -1,0 +1,203 @@
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix skos: <http://www.w3.org/2004/02/skos/core#>.
+@prefix sym: <https://e-teachingorg.github.io/skos-vocabularies/www.e-teaching.org/etresources/e-teachingorg-vocabularies/symptom/>.
+
+sym:
+    a skos:ConceptScheme;
+    dct:description "Symptome f\u00fcr Probleme in der Hochschullehre"@en;
+    dct:title "Symptom"@en;
+    skos:hasTopConcept
+        sym:007ed, sym:087f2, sym:0c3be, sym:24dd5, sym:40fe0, sym:49aa4,
+        sym:4ee69, sym:59838, sym:6032c, sym:66906, sym:67258, sym:67c2e,
+        sym:6a098, sym:792a6, sym:87d4c, sym:88661, sym:8f872, sym:9740a,
+        sym:9acc4, sym:a6934, sym:b18c6, sym:b56cf, sym:bcc9f, sym:c8e62,
+        sym:d291a, sym:d6b60, sym:d84a7, sym:dcc89, sym:ed505, sym:f66d9,
+        sym:fc090, sym:ff496 .
+sym:007ed
+    a skos:Concept;
+    skos:definition
+        "bestimmte Studierendengruppen haben eingeschr\u00e4nkten Zugang zu Ressourcen oder erleben Nachteile bei der Bewertung ihrer Leistungen"@de;
+    skos:prefLabel "mangelnde Chancengleichheit"@de;
+    skos:topConceptOf sym: .
+sym:087f2
+    a skos:Concept;
+    skos:definition
+    "Der R\u00fccklauf bei der Lehrevaluation f\u00e4llt zu gering aus"@de;
+    skos:prefLabel "Geringe Beteiligung der Studierenden an Evaluationen"@de;
+    skos:topConceptOf sym: .
+sym:0c3be
+    a skos:Concept;
+    skos:definition "Konflikte zwischen Studierenden"@de;
+    skos:prefLabel "Konflikte zwischen Studierenden"@de;
+    skos:topConceptOf sym: .
+sym:24dd5
+    a skos:Concept;
+    skos:definition "Die Lehrperson f\u00fchlt sich \u00fcberfordert"@de;
+    skos:prefLabel "\u00dcberforderung der Lehrperson"@de;
+    skos:topConceptOf sym: .
+sym:40fe0
+    a skos:Concept;
+    skos:definition
+        "Die Lehrveranstaltung erf\u00fcllt nicht die gesetzten Qualit\u00e4tsstandards (Evaluation, Noten, etc.)"@de;
+    skos:prefLabel "Geringe Qualit\u00e4t der Lehrveranstaltungen"@de;
+    skos:topConceptOf sym: .
+sym:49aa4
+    a skos:Concept;
+    skos:definition
+        "Lehrkonzepte werden nicht an den aktuellen Wissenstand im Feld oder Didaktik angepasst"@de;
+    skos:prefLabel "Unzureichende Weiterentwicklung von Lehrkonzepten"@de;
+    skos:topConceptOf sym: .
+sym:4ee69
+    a skos:Concept;
+    skos:definition
+        "Einige Studierende kommen unvorbereitet in den Unterricht, haben die Literatur nicht gelesen oder die geforderten Aufgaben nicht erledigt. Dies kann den Unterrichtsfluss st\u00f6ren und das Lernniveau senken"@de;
+    skos:prefLabel "Unvorbereitete Studierende"@de;
+    skos:topConceptOf sym: .
+sym:59838
+    a skos:Concept;
+    skos:definition
+        "Lehrperson hat kein gutes Selbstwertgef\u00fchl, weil sie etwas nicht gut kann"@de;
+    skos:prefLabel "mangelndes Selbstwertgef\u00fchl"@de;
+    skos:topConceptOf sym: .
+sym:6032c
+    a skos:Concept;
+    skos:definition
+        "Die Pr\u00fcfungsgestaltung ist nicht geeignet, die Kompetenz der Studierenden bez\u00fcglich der gelernten Inhalte zu testen"@de;
+    skos:prefLabel "Geringe Kompetenzorientierung in Pr\u00fcfungen"@de;
+    skos:topConceptOf sym: .
+sym:66906
+    a skos:Concept;
+    skos:definition
+        "T\u00e4uschungsversuche, wie das Abschreiben in Pr\u00fcfungen oder das Einreichen von plagiierten Arbeiten, sind ein gro\u00dfes Problem. Lehrende m\u00fcssen auf diese Verst\u00f6\u00dfe reagieren, was zu unangenehmen Situationen f\u00fchrt"@de;
+    skos:prefLabel "T\u00e4uschungsversuch"@de;
+    skos:topConceptOf sym: .
+sym:67258
+    a skos:Concept;
+    skos:definition
+        "Der Ablauf der Lehrveranstaltung wird unterbrochen oder muss unterbrochen werden"@de;
+    skos:prefLabel "Lehrveranstaltung wird gest\u00f6rt"@de;
+    skos:topConceptOf sym: .
+sym:67c2e
+    a skos:Concept;
+    skos:definition
+        "R\u00e4ume, Materialien, etc. sind von betroffenen Menschengruppen nicht gleichwertig nutzbar"@de;
+    skos:prefLabel "mangelnde Barrierefreiheit"@de;
+    skos:topConceptOf sym: .
+sym:6a098
+    a skos:Concept;
+    skos:definition
+        "Verwendete Lernresourcen sind f\u00fcr einen Teil der Studierenden aufgrund von finanziellen, r\u00e4umlichen oder zeitlichen Einschr\u00e4nkungen nicht zug\u00e4nglich"@de;
+    skos:prefLabel "ungleicher Zugang zu Ressourcen"@de;
+    skos:topConceptOf sym: .
+sym:792a6
+    a skos:Concept;
+    skos:definition
+        "Wenn Studierende keine Eigeninitiative zeigen oder nur minimale Anforderungen erf\u00fcllen, kann dies frustrierend f\u00fcr Lehrende sein. Es f\u00e4llt ihnen oft schwer, solche Studierende zu aktivieren"@de;
+    skos:prefLabel "Mangelnde Motivation/Passive Studierende"@de;
+    skos:topConceptOf sym: .
+sym:87d4c
+    a skos:Concept;
+    skos:definition "Lehrkraft verwendet keine OER-Materialien"@de;
+    skos:prefLabel "Fehlende Verwendung von OER"@de;
+    skos:topConceptOf sym: .
+sym:88661
+    a skos:Concept;
+    skos:definition
+        "Die Lehrperson versp\u00fcrt Zeitdruck in  der Durchf\u00fchrung ihrer Lehrveranstaltung"@de;
+    skos:prefLabel "Zeitdruck der Lehrperson"@de;
+    skos:topConceptOf sym: .
+sym:8f872
+    a skos:Concept;
+    skos:definition "Lehrende setzen nur wenige Lehrmethoden ein"@de;
+    skos:prefLabel
+        "Begrenzte didaktische Gestaltungsm\u00f6glichkeiten/Geringe Vielfalt der Lehrmethoden"@de;
+    skos:topConceptOf sym: .
+sym:9740a
+    a skos:Concept;
+    skos:definition "Das Gelernte kann nicht praktisch angewendet werden"@de;
+    skos:prefLabel "Geringer Transfer in die Praxis"@de;
+    skos:topConceptOf sym: .
+sym:9acc4
+    a skos:Concept;
+    skos:definition
+        "Studierende haben nicht die M\u00f6glichkeit, ihren Lernprozess nach ihren eigenen Bed\u00fcrfnissen zu gestalten"@de;
+    skos:prefLabel
+    "Begrenzte M\u00f6glichkeiten zum Individualisierten Lernen"@de;
+    skos:topConceptOf sym: .
+sym:a6934
+    a skos:Concept;
+    skos:definition
+        "Die Datenschutzrechte von Studierenden wurden verletzt oder es bestehen Zweifel, dass angemessene Ma\u00dfnahmen zum Schutz ihrer Daten getroffen wurden"@de;
+    skos:prefLabel "Datenschutzverletzung"@de;
+    skos:topConceptOf sym: .
+sym:b18c6
+    a skos:Concept;
+    skos:definition
+        "Studierende lernen nicht das, was in der Lehrveranstaltung vermittelt werden soll"@de;
+    skos:prefLabel "Lernniveau sinkt"@de;
+    skos:topConceptOf sym: .
+sym:b56cf
+    a skos:Concept;
+    skos:definition
+        "Lehrende haben den Eindruck, die Lehrveranstaltung oder die Sitzung nicht mehr steuern zu k\u00f6nnen"@de;
+    skos:prefLabel "Kontrollverlust"@de;
+    skos:topConceptOf sym: .
+sym:bcc9f
+    a skos:Concept;
+    skos:definition
+        "In hybriden Lehrveranstaltungen: Wie stellt man eine gleichberechtigte Betreuung von Studierenden sicher, egal ob sie online oder pr\u00e4sent teilnehmen"@de;
+    skos:prefLabel "Lehrperson betreut Studierende ungleichwertig"@de;
+    skos:topConceptOf sym: .
+sym:c8e62
+    a skos:Concept;
+    skos:definition
+        "Die Betreuung von Abschlussarbeiten, Praktika und individuellen Projekten erfordert oft viel Zeit. In gro\u00dfen Studieng\u00e4ngen ist es f\u00fcr Lehrende schwierig, jedem Studierenden ausreichend Aufmerksamkeit zu schenken"@de;
+    skos:prefLabel "hoher (zeitlicher) Aufwand"@de;
+    skos:topConceptOf sym: .
+sym:d291a
+    a skos:Concept;
+    skos:definition
+        "Es kommt vor, dass Studierende unzufrieden mit ihren Noten sind und diese infrage stellen. Solche Konflikte k\u00f6nnen emotional aufgeladen sein und erfordern von den Lehrenden diplomatisches Geschick"@de;
+    skos:prefLabel "Konflikte um Noten"@de;
+    skos:topConceptOf sym: .
+sym:d6b60
+    a skos:Concept;
+    skos:definition
+        "Studierenden mit zeitlichen oder r\u00e4umlichen Einschr\u00e4nkungen erleben Nachteile bei der Betreuung"@de;
+    skos:prefLabel
+        "schlechtere Erreichbarkeit von Studierenden mit zeitlichen/r\u00e4umlichen Einschr\u00e4nkungen"@de;
+    skos:topConceptOf sym: .
+sym:d84a7
+    a skos:Concept;
+    skos:definition
+        "In vielen Kursen gibt es gro\u00dfe Unterschiede in den Vorkenntnissen und F\u00e4higkeiten der Studierenden. Lehrende m\u00fcssen den Unterricht so gestalten, dass sowohl leistungsschw\u00e4chere als auch leistungsstarke Studierende profitieren, was eine Herausforderung darstellt"@de;
+    skos:prefLabel "unterschiedlicher Wissensstand der Studierenden"@de;
+    skos:topConceptOf sym: .
+sym:dcc89
+    a skos:Concept;
+    skos:definition
+        "Studierende k\u00f6nnen die gelernten Inhalte nicht kritisch reflektieren"@de;
+    skos:prefLabel "mangelnde kritische Reflexionsf\u00e4higkeit"@de;
+    skos:topConceptOf sym: .
+sym:ed505
+    a skos:Concept;
+    skos:definition "Studierende sind nicht begeistert/motiviert"@de;
+    skos:prefLabel "Mangelnde Freude am Lernen"@de;
+    skos:topConceptOf sym: .
+sym:f66d9
+    a skos:Concept;
+    skos:definition
+        "Geringe Beteiligung der Studierenden, Lehrperson vermittelt den Stoff ohne Interaktion"@de;
+    skos:prefLabel "Frontalunterricht"@de;
+    skos:topConceptOf sym: .
+sym:fc090
+    a skos:Concept;
+    skos:definition
+        "Die Lehrperson ist unfzufrieden mit der Gestaltung/Durchf\u00fchrung der Lehrveranstaltung"@de;
+    skos:prefLabel "Unzufriedenheit der Lehrperson"@de;
+    skos:topConceptOf sym: .
+sym:ff496
+    a skos:Concept;
+    skos:definition "Lehrperson ist unsicher, weil sie etwas nicht gut kann"@de;
+    skos:prefLabel "Unsicherheit"@de;
+    skos:topConceptOf sym: .
