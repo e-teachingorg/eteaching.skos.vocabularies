@@ -1,6 +1,12 @@
-# SkoHub Pages
+# eteaching.skos.vocabularies
 
-This is an example repository (formerly named `skohub-docker-vocabs`) to show how you can publish your SKOS vocabulary using GitHub infrastructure (Actions and Pages).
+
+This repository provides various SKOS vocabularies via the GitHub infrastructure. These are vocabularies that are intended to enable problem-oriented access for searches based on metadata. The following vocabularies are provided in the Terse RDF Triple Language (Turtle): 
+
+- affected_by_problem.ttl
+- problem_areas.ttl
+- problems.ttl
+- symptoms.ttl
 
 Every time a change is made to a vocabulary a GitHub-workflow-action is triggered to publish the most recent vocabulary to the `gh-pages`-branch, which is used by GitHub pages.
 It spins up a Docker container made from [SkoHub Vocabs](https://github.com/hbz/skohub-vocabs).
