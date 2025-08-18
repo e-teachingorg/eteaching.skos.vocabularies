@@ -1,4 +1,4 @@
-@prefix problem_areas: <https://e-teachingorg.github.io/skos-vocabularies/www.e-teaching.org/etresources/e-teachingorg-vocabularies/problem_areas/> .
+@prefix problem_areas: <https://e-teachingorg.github.io/eteaching.skos.vocabularies/www.e-teaching.org/etresources/e-teachingorg-vocabularies/problem_areas/> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
