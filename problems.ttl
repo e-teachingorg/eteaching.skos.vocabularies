@@ -1,6 +1,6 @@
 @prefix dct: <http://purl.org/dc/terms/>.
 @prefix skos: <http://www.w3.org/2004/02/skos/core#>.
-@prefix pro: <https://e-teachingorg.github.io/skos-vocabularies/www.e-teaching.org/etresources/e-teachingorg-vocabularies/problem/>.
+@prefix pro: <https://e-teachingorg.github.io/eteaching.skos.vocabularies/www.e-teaching.org/etresources/e-teachingorg-vocabularies/problem/>.
 
 pro:
     a skos:ConceptScheme;
