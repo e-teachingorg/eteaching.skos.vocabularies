@@ -56,6 +56,24 @@ Go to the "Actions" tab and activate GitHub Actions for your repository.
 You maybe need to update permissions like described here: https://github.com/peaceiris/actions-gh-pages/issues/744
 Go to `Settings` > `Actions` > `General` > `Workflow permissions` and toggle the Read and write permissions.
 
+
+## Authors
+
+* 
+
+## Contribute
+
+- Issue Tracker: https://github.com/e-teachingorg/eteaching.skos.vocabularies/issues
+- Source Code: https://github.com/e-teachingorg/eteaching.skos.vocabularies/
+
+## Support
+
+If you are having issues, please let us know.
+
+## License
+
+The project is licensed under the Apache-2.0 license.
+
 ## Funding information
 The creation and development of the vocabulary (affected_by_problem.ttl, problem_areas.ttl, problems.ttl, symptoms.ttl) was funded as part of a publicly financed project by the Federal Ministry of Research, Technology and Space of the Federal Republic of Germany.
 
