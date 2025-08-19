@@ -56,10 +56,6 @@ Go to the "Actions" tab and activate GitHub Actions for your repository.
 You maybe need to update permissions like described here: https://github.com/peaceiris/actions-gh-pages/issues/744
 Go to `Settings` > `Actions` > `General` > `Workflow permissions` and toggle the Read and write permissions.
 
-## CHANGELOG
-
-09.02.2021:
-
-- In an earlier version, there was the .env variable `PATH_PREFIX` set to point to the repository the vocabulary is hosted at. To align with rest of code, this was changed to `BASEURL`.
-- The docker image now also support i18n
+## Funding information
+The creation and development of the vocabulary (affected_by_problem.ttl, problem_areas.ttl, problems.ttl, symptoms.ttl) was funded as part of a publicly financed project by the Federal Ministry of Research, Technology and Space of the Federal Republic of Germany.
 
