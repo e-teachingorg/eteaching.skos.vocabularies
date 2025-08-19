@@ -1,7 +1,7 @@
 # eteaching.skos.vocabularies
 
 
-This repository provides various SKOS vocabularies via the GitHub infrastructure. These are vocabularies that are intended to enable problem-oriented access for searches based on metadata. The following vocabularies are provided in the Terse RDF Triple Language (Turtle): 
+This repository ist a fork of [skohub-io/skohub-pages](https://github.com/skohub-io/skohub-pages) and provides various SKOS vocabularies via the GitHub infrastructure. These are vocabularies that are intended to enable problem-oriented access for searches based on metadata. The following vocabularies are provided in the Terse RDF Triple Language (Turtle): 
 
 - affected_by_problem.ttl
 - problem_areas.ttl
