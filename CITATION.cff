@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: If you use this vocabularies, please cite it using these metadata.
+title: eteaching.skos.vocabularies
+abstract: Various vocabularies for problem-oriented searches based on metadata
+authors:
+  - family-names: Trostorff
+    given-names: Katharina
+  - family-names: Trostorff
+    given-names: Katharina
+version: 1.0b3
+date-released: "2025-09-16"
+license: Apache-2.0
+repository-code: "https://github.com/e-teachingorg/eteaching.skos.vocabularies"
