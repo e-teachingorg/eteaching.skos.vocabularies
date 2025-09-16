@@ -63,7 +63,8 @@ Go to `Settings` > `Actions` > `General` > `Workflow permissions` and toggle the
 
 ## Authors
 
-* 
+* Trostorff, K.
+* Müller, T.
 
 ## Contribute
 
