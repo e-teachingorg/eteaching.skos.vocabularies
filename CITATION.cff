@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: If you use this vocabularies, please cite it using these metadata.
-title: eteaching.skos.vocabularies
+title: eteaching.skos.vocabularies - Various vocabularies for problem-oriented searches based on metadata
 abstract: Various vocabularies for problem-oriented searches based on metadata
 authors:
   - family-names: Trostorff
