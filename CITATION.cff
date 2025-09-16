@@ -5,8 +5,8 @@ abstract: Various vocabularies for problem-oriented searches based on metadata
 authors:
   - family-names: Trostorff
     given-names: Katharina
-  - family-names: Trostorff
-    given-names: Katharina
+  - family-names: Müller
+    given-names: Tjark
 version: 1.0b3
 date-released: "2025-09-16"
 license: Apache-2.0
