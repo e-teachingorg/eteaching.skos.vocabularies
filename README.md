@@ -8,6 +8,10 @@ This repository ist a fork of [skohub-io/skohub-pages](https://github.com/skohub
 - problems.ttl
 - symptoms.ttl
 
+The vocabularies are made available in a more human-readable form [via a website](https://e-teachingorg.github.io/eteaching.skos.vocabularies/).
+
+# GitHub-workflow-action
+
 Every time a change is made to a vocabulary a GitHub-workflow-action is triggered to publish the most recent vocabulary to the `gh-pages`-branch, which is used by GitHub pages.
 It spins up a Docker container made from [SkoHub Vocabs](https://github.com/hbz/skohub-vocabs).
 
